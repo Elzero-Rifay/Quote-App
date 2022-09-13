@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ 
+main {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 20px;
+  height: 800px;
+  border: 6px solid #000000a6;
+  
+}
+
+h1 {
+  color:#000000a6 ; 
+  margin: 35px 39px;
+  
+
+}
+
+#btn {
+  background-color: #0f7eff;
+  color: #fff;
+  font-size: 20px ;
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+  position:relative;
+  left:872px;
+  bottom: 67px;
+  padding: 5px 9px;
+}
+
+li {
+  list-style: none;
+  font-size: 20px;
+  padding: 10px 10px;
+  background-color: #444;
+  color: #ff9500;
+  width: 80%;
+  border-radius: 20px;
+  
+  
+}
